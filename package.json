@@ -20,6 +20,7 @@
     "simpler-debounce": "1.0.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
     "babel-preset-es2015": "6.24.1",
     "babel-register": "6.26.0",
@@ -27,6 +28,8 @@
     "eslint-config-standard": "14.1.0",
     "eslint-config-standard-jsx": "8.1.0",
     "eslint-engine": "0.3.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "4.2.1",
     "eslint-plugin-react": "7.18.3",
     "eslint-plugin-standard": "4.0.1",
